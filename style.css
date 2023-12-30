@@ -58,3 +58,29 @@
       font-family: a;
       font-size: 15px;
   }
+  .bottom-page1{
+    position: absolute;
+    bottom: 5%;
+    height: 35vh;
+    width: 50vw;
+    left: 10%;
+}
+.bottom-page1>h1{
+    font-family: a;
+    font-size: 5vw;
+    font-weight: 100;
+    line-height: 1;
+    color: #fff;
+}
+.bottom-page1-inner{
+    position: absolute;
+    bottom: 0%;
+    height: 35%;
+    width: 100%;
+}
+.bottom-page1-inner{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-family: a;
+}
